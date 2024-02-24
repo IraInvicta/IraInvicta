@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on some cool projects.
-- 📫 How to reach me 
+- 📫 Reach me: www.linkedin.com/in/shivani-jagadish-6327322b6 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like to Swim.......
 
