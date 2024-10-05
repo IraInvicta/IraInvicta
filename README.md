@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IraInvicta
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on some cool projects.
 - 📫 Reach me: www.linkedin.com/in/shivani-jagadish-6327322b6 
 - 😄 Pronouns: She/Her
